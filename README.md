@@ -62,10 +62,10 @@ The following data files are provided for analysis:
 3. **Synthesis of Insights**
    - Summarize the most important findings and provide actionable recommendations to management.
 
-## Files to Submit
+## Files
 
 1. `customer_purchases.csv` or `.xlsx`: The cleaned customer data with transaction details.
-2. `analysis_code.R` or `analysis_code.py`: The code used for the analysis.
+2. `analysis_code.R`: The code used for the analysis.
 3. PDF Report:
    - Entity Relationship Diagram (ERD)
    - Summary of data cleaning steps
